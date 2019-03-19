@@ -1,0 +1,10 @@
+C:\Users\Tyenuc\Desktop\Global_LocalAlignment\Global_LocalAlignment\Global_LocalAlignment\bin\Debug\Global_LocalAlignment.exe.config
+C:\Users\Tyenuc\Desktop\Global_LocalAlignment\Global_LocalAlignment\Global_LocalAlignment\bin\Debug\Global_LocalAlignment.exe
+C:\Users\Tyenuc\Desktop\Global_LocalAlignment\Global_LocalAlignment\Global_LocalAlignment\bin\Debug\Global_LocalAlignment.pdb
+C:\Users\Tyenuc\Desktop\Global_LocalAlignment\Global_LocalAlignment\Global_LocalAlignment\obj\Debug\Global_LocalAlignment.Form1.resources
+C:\Users\Tyenuc\Desktop\Global_LocalAlignment\Global_LocalAlignment\Global_LocalAlignment\obj\Debug\Global_LocalAlignment.Properties.Resources.resources
+C:\Users\Tyenuc\Desktop\Global_LocalAlignment\Global_LocalAlignment\Global_LocalAlignment\obj\Debug\Global_LocalAlignment.csproj.GenerateResource.cache
+C:\Users\Tyenuc\Desktop\Global_LocalAlignment\Global_LocalAlignment\Global_LocalAlignment\obj\Debug\Global_LocalAlignment.csproj.CoreCompileInputs.cache
+C:\Users\Tyenuc\Desktop\Global_LocalAlignment\Global_LocalAlignment\Global_LocalAlignment\obj\Debug\Global_LocalAlignment.exe
+C:\Users\Tyenuc\Desktop\Global_LocalAlignment\Global_LocalAlignment\Global_LocalAlignment\obj\Debug\Global_LocalAlignment.pdb
+C:\Users\Tyenuc\Desktop\Global_LocalAlignment\Global_LocalAlignment\Global_LocalAlignment\obj\Debug\Global_LocalAlignment.csprojAssemblyReference.cache
